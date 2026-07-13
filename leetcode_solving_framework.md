@@ -1,4 +1,4 @@
-# Googler's LeetCode Solving Framework
+# LeetCode Solving Framework
 
 Use this framework for every LeetCode problem in this project.
 
