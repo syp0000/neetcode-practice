@@ -22,7 +22,6 @@ When I am stuck:
 3. Give partial pseudocode only if I am still stuck.
 4. Do not reveal the entire solution immediately.
 
-Use both **English and Korean** so I can practice explaining my reasoning in actual interviews.
 
 When reviewing my code:
 
@@ -51,10 +50,6 @@ I should describe:
 
 > My understanding is that I need to...
 
-### 한국어
-
-문제를 내 말로 다시 설명한다.  
-아직 알고리즘이나 자료구조를 생각하지 않는다.
 
 ---
 
@@ -76,9 +71,6 @@ Possible questions:
 
 > Before I start, I would like to clarify a few constraints.
 
-### 한국어
-
-입력 조건과 예외 상황을 먼저 확인한다.
 
 ---
 
@@ -99,9 +91,6 @@ I should explain:
 
 > What information would a human need to remember while solving this?
 
-### 한국어
-
-코드를 생각하기 전에 사람이 직접 문제를 푸는 과정을 설명한다.
 
 ---
 
@@ -119,9 +108,6 @@ I should explain the solution in plain English before writing code.
 
 > A straightforward approach would be...
 
-### 한국어
-
-가장 단순하지만 확실히 맞는 풀이부터 설명한다.
 
 ---
 
@@ -148,9 +134,6 @@ Then ask:
 
 > The bottleneck in this approach is...
 
-### 한국어
-
-현재 풀이에서 가장 비싼 연산이나 중복 작업을 찾는다.
 
 ---
 
@@ -183,9 +166,6 @@ Do not tell me the pattern immediately unless I am stuck.
 
 > Can previously computed information help us?
 
-### 한국어
-
-패턴을 먼저 외워서 적용하지 않고, 병목을 제거하면서 더 나은 풀이를 도출한다.
 
 ---
 
@@ -207,9 +187,6 @@ Examples:
 
 > The key invariant is that...
 
-### 한국어
-
-알고리즘이 실행되는 동안 항상 유지되는 핵심 규칙을 한 문장으로 설명한다.
 
 ---
 
@@ -239,9 +216,6 @@ For each relevant element:
 Return the result
 ```
 
-### 한국어
-
-Python 문법을 쓰기 전에 자연어에 가까운 단계로 알고리즘을 작성한다.
 
 ---
 
@@ -267,9 +241,6 @@ When I submit code, review:
 
 > At this point, coding should mostly be translating the plan into syntax.
 
-### 한국어
-
-이 단계에서는 새로운 풀이를 생각하는 것이 아니라, 이미 만든 계획을 코드로 옮긴다.
 
 ---
 
@@ -296,9 +267,6 @@ I should explain why, not just state Big-O.
 
 > The space complexity is ... because...
 
-### 한국어
-
-코드를 예제로 직접 따라가고, 시간 및 공간 복잡도의 이유까지 설명한다.
 
 ---
 
